@@ -11,5 +11,5 @@ CREATE TABLE Players (
 	-- Birthsday date.
     DateOfBirth DATE NOT NULL,
 	-- Birth place (country).
-    CountryOfBirth NVARCHAR(50),
+    CountryOfBirth NVARCHAR(50)
 );
